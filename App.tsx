@@ -7,6 +7,6 @@ const App: React.FC = () => {
       <Text>Hello!</Text>
     </SafeAreaView>
   );
-}
+};
 
 export default App;
